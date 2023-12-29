@@ -9,15 +9,15 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+### Step1:
 Import modules robot and camera from robomaster
-Step2:
+### Step2:
 Initialize robot and the components.
-Step3:
+### Step3:
 Start streaming the video and control the robot by giving the speed, distance and dirction to be covered.
-Step4:
+### Step4:
 Close the robot connection.
-Step5:
+### Step5:
 End of program.
 
 ## Program
